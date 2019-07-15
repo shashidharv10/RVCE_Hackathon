@@ -11,3 +11,5 @@ The interface for interaction was built using Tkinter module on python. Initiall
 To achieve concurrency we had to move to a microcontroller platform such as raspberry pi.
 
 This project is still being developed with contributions from other team members as well.
+
+The respective haar cascasde files to be used along with the face and eye detection have not been uploaded due to file size constraints please download them to use the application.
